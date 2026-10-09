@@ -1,2 +1,2 @@
-# Sakhi_Shield_website
+# sakhi_shield_website
 Sakhi -shield a hackathon project
